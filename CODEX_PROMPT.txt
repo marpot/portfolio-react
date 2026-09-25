@@ -1,0 +1,13 @@
+Build a complete production-ready React portfolio/business-card website for Marcin Potoczny in this empty directory.
+Tech: React + Vite + TypeScript; SCSS only, no Tailwind/Bootstrap; responsive/accessibility/semantic HTML; subtle animations + reduced-motion; dark/light theme; PL/EN switch; clean components/data; SEO; README; npm build must pass.
+Goal: recruiter-facing portfolio for 100% remote junior software engineering / Python / FastAPI / React / QA roles. Professional and credible, not a generic AI template.
+Personal: Marcin Potoczny; Poland; available for 100% remote work; marcin.potoczny@protonmail.com; GitHub https://github.com/marpot; no LinkedIn or phone; Polish native, English B2.
+Experience: NLP Solutions Designer, Alfavox Sp. z o.o. Poznań, 6 months remote: CIRF, chatbots/voicebots, manual testing, test scenarios, API testing, SQL, documentation, requirements analysis, call-center Alfa. IT Specialist intern, ASD Systems Sp. z o.o., 1 month: Python Pytest automated tests for vending web app, API endpoints, maintenance. NFZ Helpline Consultant, Arteria, 6 months remote. Sales Specialist, Selvoy, 6 months. Do not inflate or invent dates.
+Skills: Python, FastAPI, Django/DRF/Channels, PostgreSQL, MySQL, REST, JWT, Redis, Docker/Compose, Linux, React, TypeScript, JavaScript, HTML/CSS/SCSS, WordPress/WooCommerce, PHP basics, ACF, manual/regression/API testing, Postman, Swagger/OpenAPI, Pytest, Jest basics, Jira/Xray/Zephyr, Confluence. DevOps exposure/learning: Kubernetes, Helm, CI/CD, Terraform, Azure; do not falsely claim senior expertise.
+Featured projects:
+- corporation_simulation_project: FastAPI corporation simulation, React TS, PostgreSQL, Docker, DevOps lab for Kubernetes/Helm/CI-CD/Terraform; https://github.com/marpot/corporation_simulation_project
+- django_react_fullstack_rpg_game: Django/DRF/Channels + React TS, realtime/WebSockets, AI game-master related features, Docker; https://github.com/marpot/django_react_fullstack_rpg_game
+- ai-cyber-store: React, FastAPI, WordPress/WooCommerce, Docker, recommendation service; https://github.com/marpot/ai-cyber-store
+- Pupilovo: headless pet ecommerce, React TS, WordPress/WooCommerce; https://github.com/marpot/Pupilovo
+- wordpress-portfolio-theme: custom WP theme, modular SCSS, Vite, dynamic content; https://github.com/marpot/wordpress-portfolio-theme
+Use sticky nav, strong hero CTAs, About, featured projects with filters, grouped skills, experience timeline, practical contribution/working style section, contact/footer. Modern restrained engineering visual style, no fake terminal, no excessive neon, no stock photos. Install dependencies, run npm build, fix errors, leave ready to commit.

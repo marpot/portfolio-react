@@ -1,40 +1,30 @@
-# Marcin Potoczny — Portfolio
+# Marcin Potoczny — portfolio
 
-Recruiter-facing portfolio presenting my software engineering, QA and web development projects.
+Recruiter-facing personal portfolio built with React, TypeScript, Vite and SCSS. It includes Polish and English content, light/dark themes, project filtering, accessible navigation and motion preferences.
 
-## Tech stack
-
-- React + TypeScript + Vite
-- SCSS
-- Responsive and accessible UI
-- Polish / English language switch
-- Light / dark theme
-
-## Featured projects
-
-- **Corporation Simulation** — FastAPI, React, TypeScript, PostgreSQL, Docker; also used as a DevOps learning lab.
-- **Django React Fullstack RPG Game** — Django, DRF, Channels, React, TypeScript, WebSockets and Docker.
-- **AI Cyber Store** — React, FastAPI, WordPress/WooCommerce, Docker and a product recommendation service.
-- **Pupilovo** — headless pet e-commerce built with React, TypeScript, WordPress and WooCommerce.
-- **WordPress Portfolio Theme** — custom WordPress theme with PHP, ACF, SCSS and Vite.
-
-The portfolio uses real screenshots from the project repositories.
-
-## Local development
+## Run locally
 
 ```bash
 npm install
 npm run dev
 ```
 
-Production build:
+## Production build
 
 ```bash
 npm run build
+npm run preview
 ```
 
-## Contact
+The optimized static build is written to `dist/` and can be hosted on any static hosting provider.
 
-Marcin Potoczny — Poland, available for 100% remote work.
+## Project structure
 
-Email: marcin.potoczny@protonmail.com
+- `src/App.tsx` — page composition and interactions
+- `src/data.ts` — projects, experience and skills
+- `src/i18n.ts` — Polish and English interface copy
+- `src/styles/main.scss` — theme, layout and responsive styling
+
+## Content updates
+
+Edit portfolio facts in `src/data.ts` and translated copy in `src/i18n.ts`. No content management system or external API is required.

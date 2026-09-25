@@ -1,31 +1,40 @@
-# Create React App
+# Marcin Potoczny — Portfolio
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+Recruiter-facing portfolio presenting my software engineering, QA and web development projects.
 
-## Deploy Your Own
+## Tech stack
 
-Deploy your own Create React App project with Vercel.
+- React + TypeScript + Vite
+- SCSS
+- Responsive and accessible UI
+- Polish / English language switch
+- Light / dark theme
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/create-react-app&template=create-react-app)
+## Featured projects
 
-_Live Example: https://create-react-template.vercel.app/_
+- **Corporation Simulation** — FastAPI, React, TypeScript, PostgreSQL, Docker; also used as a DevOps learning lab.
+- **Django React Fullstack RPG Game** — Django, DRF, Channels, React, TypeScript, WebSockets and Docker.
+- **AI Cyber Store** — React, FastAPI, WordPress/WooCommerce, Docker and a product recommendation service.
+- **Pupilovo** — headless pet e-commerce built with React, TypeScript, WordPress and WooCommerce.
+- **WordPress Portfolio Theme** — custom WordPress theme with PHP, ACF, SCSS and Vite.
 
-## Available Scripts
+The portfolio uses real screenshots from the project repositories.
 
-In the project directory, you can run:
+## Local development
 
-### `npm start`
+```bash
+npm install
+npm run dev
+```
 
-Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Production build:
 
-The page will reload when you make changes. You may also see any lint errors in the console.
+```bash
+npm run build
+```
 
-### `npm test`
+## Contact
 
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Marcin Potoczny — Poland, available for 100% remote work.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-
-It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+Email: marcin.potoczny@protonmail.com

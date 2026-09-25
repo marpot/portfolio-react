@@ -2,6 +2,8 @@
 
 Recruiter-facing personal portfolio built with React, TypeScript, Vite and SCSS. It includes Polish and English content, light/dark themes, project filtering, accessible navigation and motion preferences.
 
+**Live portfolio:** https://marcinpotoczny.vercel.app/
+
 ## Run locally
 
 ```bash
@@ -16,7 +18,7 @@ npm run build
 npm run preview
 ```
 
-The optimized static build is written to `dist/` and can be hosted on any static hosting provider.
+The optimized static build is written to `dist/` and deployed on Vercel.
 
 ## Project structure
 

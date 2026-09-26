@@ -2,7 +2,7 @@ import type { Experience, Project } from './types'
 
 export const projects: Project[] = [
   {
-    name: 'corporation_simulation_project',
+    name: 'Corporation Simulation Platform',
     number: '01',
     category: ['backend', 'fullstack'],
     url: 'https://github.com/marpot/corporation_simulation_project',
@@ -16,7 +16,7 @@ export const projects: Project[] = [
     featured: true,
   },
   {
-    name: 'django_react_fullstack_rpg_game',
+    name: 'Real-Time RPG Platform',
     number: '02',
     category: ['backend', 'fullstack'],
     url: 'https://github.com/marpot/django_react_fullstack_rpg_game',
@@ -29,7 +29,7 @@ export const projects: Project[] = [
     stack: ['Django', 'DRF', 'Channels', 'React + TS', 'WebSockets', 'Docker'],
   },
   {
-    name: 'ai-cyber-store',
+    name: 'AI Cyber Store',
     number: '03',
     category: ['backend', 'fullstack', 'wordpress'],
     url: 'https://github.com/marpot/ai-cyber-store',
@@ -42,7 +42,7 @@ export const projects: Project[] = [
     stack: ['React', 'FastAPI', 'WooCommerce', 'WordPress', 'Docker'],
   },
   {
-    name: 'Pupilovo',
+    name: 'Pupilovo — Headless Pet Store',
     number: '04',
     category: ['fullstack', 'wordpress'],
     url: 'https://github.com/marpot/Pupilovo',
@@ -55,7 +55,7 @@ export const projects: Project[] = [
     stack: ['React', 'TypeScript', 'WordPress', 'WooCommerce'],
   },
   {
-    name: 'wordpress-portfolio-theme',
+    name: 'Custom WordPress Portfolio Theme',
     number: '05',
     category: ['wordpress'],
     url: 'https://github.com/marpot/wordpress-portfolio-theme',
